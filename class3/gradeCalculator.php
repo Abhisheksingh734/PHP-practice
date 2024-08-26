@@ -8,11 +8,11 @@
     <body>
     
       <form action="" method="post">
-        <input type="text" name="sub1" placeholder="Enter subject 1 marks">
-        <input type="text" name="sub2" placeholder="Enter subject 2 marks">
-        <input type="text" name="sub3" placeholder="Enter subject 3 marks">
-        <input type="text" name="sub4" placeholder="Enter subject 4 marks">
-        <input type="text" name="sub5" placeholder="Enter subject 5 marks">
+        <input type="text" name="sub1" placeholder="Enter subject 1 marks"><br>
+        <input type="text" name="sub2" placeholder="Enter subject 2 marks"><br>
+        <input type="text" name="sub3" placeholder="Enter subject 3 marks"><br>
+        <input type="text" name="sub4" placeholder="Enter subject 4 marks"><br>
+        <input type="text" name="sub5" placeholder="Enter subject 5 marks"><br>
         <button type="submit" name="submit">Submit</button>
       </form>
 
